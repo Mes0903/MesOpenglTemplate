@@ -12,7 +12,7 @@ There are 3 thing in `lib` folder
 2. opengl32.dll  
     it's under the folder `C:\Windows\System32`, copy it to here.
 3. OpenGL32.Lib  
-    it's under the folder `C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17763.0\um\x86`, copy it to here.
+    it's under the folder `C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17763.0\um\x64` (or x86, depends on what u build), copy it to here.
 
 # include folder
 
@@ -25,4 +25,4 @@ There are 3 thing in `include` folder
 
 # src folder
 
-there is at least one file `glad.c` in the folder, it under the `glad/src` folder u download before, copy it to here.
+there is at least one file `glad.c` in the folder, it's under the `glad/src` folder u download before, copy it to here.
